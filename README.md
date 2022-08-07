@@ -3,8 +3,8 @@ This Repo contains papers of GANs for topic of Image-to-Image Translation.
 
 ## Table of Contents
 - [Before 2019](#Before-2019)
-- [CVPR2019](#CVPR2019)
 - [ICCV2019](#ICCV2019)
+- [CVPR2019](#CVPR2019)
 - [CVPR2020](#CVPR2020)
 - [ICCV2021](#ICCV2021)
 - [CVPR2021](#CVPR2021)
@@ -36,33 +36,6 @@ This Repo contains papers of GANs for topic of Image-to-Image Translation.
 
 :heavy_check_mark: Diverse Image-to-Image Translation via Disentangled Representations [DRIT]
 - [[Paper]](https://arxiv.org/abs/1808.00948)[[Code]](https://github.com/HsinYingLee/DRIT)(ECCV 2018)
-
-
-
-## CVPR2019
-:heavy_check_mark: A Style-Based Generator Architecture for Generative Adversarial Networks [StyleGAN]
-- [[Paper]](https://arxiv.org/pdf/1812.04948)[[Code]](https://github.com/NVlabs/stylegan)
-
-:heavy_check_mark: Latent Filter Scaling for Multimodal Unsupervised Image-to-Image Translation
-
-:heavy_check_mark: Homomorphic Latent Space Interpolation for Unpaired Image-To-Image Translation
-
-:heavy_check_mark: A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation
-
-:heavy_check_mark:  Multi-Channel Attention Selection GAN With Cascaded Semantic Guidance for Cross-View Image Translation
-
-:heavy_check_mark:  Towards Instance-level Image-to-Image Translation
-
-:heavy_check_mark:  Reversible GANs for Memory-efficient Image-to-Image Translation
-
-:heavy_check_mark:  Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation
-
-:heavy_check_mark:  TraVeLGAN: Image-to-image Translation by Transformation Vector Learning
-
-:heavy_check_mark:  TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation
-
-:heavy_check_mark:  Image-to-Image Translation via Group-wise Deep Whitening and Coloring Transformation
-
 
 ## ICCV2019
 :heavy_check_mark: SinGAN: Learning a Generative Model from a Single Natural Image]
@@ -97,6 +70,30 @@ This Repo contains papers of GANs for topic of Image-to-Image Translation.
 :heavy_check_mark: Controllable Artistic Text Style Transfer via Shape-Matching GAN
 
 :heavy_check_mark: COCO-GAN: Generation by Parts via Conditional Coordinating
+
+## CVPR2019
+:heavy_check_mark: A Style-Based Generator Architecture for Generative Adversarial Networks [StyleGAN]
+- [[Paper]](https://arxiv.org/pdf/1812.04948)[[Code]](https://github.com/NVlabs/stylegan)
+
+:heavy_check_mark: Latent Filter Scaling for Multimodal Unsupervised Image-to-Image Translation
+
+:heavy_check_mark: Homomorphic Latent Space Interpolation for Unpaired Image-To-Image Translation
+
+:heavy_check_mark: A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation
+
+:heavy_check_mark:  Multi-Channel Attention Selection GAN With Cascaded Semantic Guidance for Cross-View Image Translation
+
+:heavy_check_mark:  Towards Instance-level Image-to-Image Translation
+
+:heavy_check_mark:  Reversible GANs for Memory-efficient Image-to-Image Translation
+
+:heavy_check_mark:  Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation
+
+:heavy_check_mark:  TraVeLGAN: Image-to-image Translation by Transformation Vector Learning
+
+:heavy_check_mark:  TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation
+
+:heavy_check_mark:  Image-to-Image Translation via Group-wise Deep Whitening and Coloring Transformation
 
 
 ## CVPR2020
